@@ -21,5 +21,5 @@ I am a passionate developer currently working on web projects using HTML, CSS, j
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-kandher-88a636279)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P11022002-HERE)
 
-![Demo](demo.gif)
+![Demo](work-com.gif)
 
