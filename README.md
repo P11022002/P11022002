@@ -4,7 +4,7 @@
 
 ### MCA Student | Web Developer | Python & JavaScript Learner
 
-<img src="work-com.gif" alt="Developer working animation" width="450" />
+<img src="https://raw.githubusercontent.com/P11022002/P11022002/main/work-com.gif" alt="Developer working animation" width="450" />
 
 <br />
 
@@ -73,8 +73,9 @@ I'm a passionate developer who loves building practical web tools, especially pr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=P11022002&show_icons=true&theme=tokyonight&hide_border=true" alt="Pallavi's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P11022002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=P11022002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P11022002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
