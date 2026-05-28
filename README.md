@@ -4,7 +4,7 @@
 
 ### MCA Student | Web Developer | Python & JavaScript Learner
 
-<img src="https://raw.githubusercontent.com/P11022002/P11022002/main/work-com.gif" alt="Developer working animation" width="450" />
+<img src="https://raw.githubusercontent.com/P11022002/P11022002/main/programmer working.gif" alt="Developer working animation" width="450" />
 
 <br />
 
